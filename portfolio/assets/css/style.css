@@ -4,10 +4,10 @@ body {
   font-family: Poppins, sans-serif;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
-  font-size: 1rem;
+  font-size: 1.1rem;
   line-height: 1.75;
   overflow-x: hidden;
-  color: #777
+  color: #131313
 }
 
 .paragraph,
@@ -206,7 +206,7 @@ h6 {
 }
 
 .btn-link:hover {
-  color: #a78457
+  color: #73B590
 }
 
 .btn-link-alt {
@@ -227,8 +227,8 @@ h6 {
 }
 
 ::selection {
-  background: #a4855e;
-  color: #fcf1c3
+  background: #73B590;
+  color: #292900;
 }
 
 body {
