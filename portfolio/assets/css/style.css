@@ -263,11 +263,11 @@ a:hover {
 
 a {
   transition: .3s ease;
-  color: #57a75b
+  color: #367d39
 }
 
 a:hover {
-  color: #78b97d
+  color: #3a633e
 }
 
 a,
@@ -434,7 +434,7 @@ main .loader {
   pointer-events: none;
   height: 200px;
   width: 200px;
-  background-color: #a78f57;
+  background-color: #a78857;
   top: 20vh;
   left: 50%;
   transform: translateX(-50%);
@@ -509,7 +509,7 @@ main .loader {
   width: 30px;
   left: 0;
   top: 0;
-  background-color: #a78457
+  background-color: #57a75f;
 }
 
 .section-title.text-center .title::before {
@@ -1302,7 +1302,7 @@ footer::after {
 }
 
 footer {
-  color: rgba(255, 255, 255, .8);
+  color: rgba(21, 21, 21, 0.8);
   position: relative;
   z-index: 1
 }
@@ -1328,6 +1328,7 @@ footer::after {
 }
 
 footer .block {
+  color:#131313;
   padding-top: 70px;
   padding-bottom: 70px;
   background-size: cover;
@@ -1346,7 +1347,7 @@ footer .block::after {
   width: 100%;
   left: 0;
   top: 0;
-  background-color: rgba(25, 35, 28, 0.8);
+  background-color: rgba(185, 232, 199, 0.8);
   z-index: -1;
   border-top-left-radius: 22px;
   border-top-right-radius: 22px
