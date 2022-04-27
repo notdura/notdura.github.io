@@ -159,7 +159,7 @@ h6 {
 }
 
 .btn::after {
-  background: rgba(167, 132, 87, .15);
+  background: rgba(87, 167, 95, 0.15);
   transform: scale(.7);
   opacity: 0
 }
@@ -761,7 +761,7 @@ a.text-dark:hover {
 
 .bg-light-soft,
 footer::after {
-  background-color: rgba(232, 235, 232, .3) !important
+  background-color: rgba(223, 241, 223, 0.3) !important
 }
 
 .text-hover-underline-initial:hover,
