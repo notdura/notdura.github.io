@@ -19,9 +19,16 @@ p {
   font-size: 18px;
 }
 
+.flexrow {
+  display: flex;
+  flex-direction: row;
+}
 @media (max-width: 767px) {
   .lead {
     font-size: 16px;
+  }
+  .flexrow {
+    flex-direction: column;
   }
 }
 
@@ -51,6 +58,9 @@ h1 {
   .h1,
   h1 {
     font-size: 2.7468rem;
+  }
+  .flexrow {
+    flex-direction: column;
   }
 }
 
